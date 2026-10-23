@@ -1,0 +1,3 @@
+/home/qingchen/shiyan1015/build/CMakeFiles/lightbar.dir
+/home/qingchen/shiyan1015/build/CMakeFiles/edit_cache.dir
+/home/qingchen/shiyan1015/build/CMakeFiles/rebuild_cache.dir
